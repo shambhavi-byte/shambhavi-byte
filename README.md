@@ -64,7 +64,7 @@
 
 ## 📈 Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shambhavi-byte&theme=tokyo-night"/>
 
 ---
 
@@ -82,11 +82,4 @@
 
 ---
 
-## ⚡ Fun Zone
-```js
-const shambhavi = {
-  code: ["Java", "JavaScript", "Python"],
-  technologies: ["MERN", "MongoDB", "Node.js"],
-  goal: "12+ LPA Software Engineer",
-  mindset: "Build > Learn > Repeat"
-};
+
