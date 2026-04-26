@@ -1,6 +1,6 @@
 <!-- PROFILE HEADER -->
 <h1 align="center">Hi 👋, I'm Shambhavi Gupta</h1>
-<h3 align="center">🚀 MERN Developer</h3>
+<h3 align="center"> MERN Developer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;Building+KindKart;Java+%2B+MERN+Focused;Future+Software+Engineer&center=true&width=500&height=45">
