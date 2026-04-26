@@ -11,7 +11,7 @@
 ## 🧠 About Me
 - 🎓 B.Tech CSE Student (3rd Year)
 - 💻 Building **KindKart — AI-powered donation platform**
-- ⚙️ Strong in **Java, Netwrok, DBMS, OS, MERN**
+- ⚙️ Strong in **Java, Network, DBMS, OS, MERN, SQL**
 
 
 ---
