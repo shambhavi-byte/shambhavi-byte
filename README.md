@@ -1,9 +1,9 @@
 <!-- PROFILE HEADER -->
 <h1 align="center">Hi 👋, I'm Shambhavi Gupta</h1>
-<h3 align="center">Full Stack Developer · AI/ML Enthusiast · Final-Year CSE Student</h3>
+<h3 align="center">Full Stack Developer · Cybersecurity Enthusiast · Final-Year CSE Student</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;Backend+Engineer+%7C+FastAPI+%2B+Node.js;Java+%2B+Python+%2B+MERN;AI%2FML+%7C+Computer+Vision+Enthusiast&center=true&width=550&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;Backend+Engineer+%7C+FastAPI+%2B+Node.js;Java+%2B+Python+%2B+MERN;Cybersecurity+%7C+Threat+Detection+Enthusiast&center=true&width=550&height=45">
 </p>
 
 <p align="center">
@@ -19,9 +19,9 @@
 - 🎓 Final-year B.Tech Computer Science student at KIIT, Bhubaneswar (CGPA: 8.69/10)
 - 💻 Full stack developer building backend systems, REST APIs, and AI-powered applications
 - ⚙️ Strong foundations in Java, DSA, DBMS, Operating Systems, Computer Networks, and SQL
-- 🧬 Exploring AI/ML — deep learning, computer vision, and anomaly detection
+- 🔐 Interested in cybersecurity — threat detection, anomaly analysis, and secure system design
 - 🏆 2nd Prize, Student Research Symposium (ICDCIT 2026) — research paper on cryptographic applications in quantum game theory, accepted for publication
-- 📜 SAP Certified Backend Developer (SAP BTP)
+- 📜 SAP Certified Backend Developer (SAP BTP) · Foundations of Cybersecurity (Google) · CCNA: Introduction to Networks (Cisco)
 
 ---
 
@@ -33,7 +33,7 @@
 
 **Languages & Databases:** Java, Python, JavaScript, SQL, C, PostgreSQL, MySQL, MongoDB
 **Backend & Frontend:** FastAPI, Node.js, Express.js, Spring Boot, REST APIs, React.js, Next.js
-**AI/ML:** PyTorch, Scikit-Learn, OpenCV, Deep Learning, Generative AI
+**Cybersecurity & AI:** Threat & Anomaly Detection, Cryptography, Deep Learning, Computer Vision (PyTorch, Scikit-Learn, OpenCV)
 **Core CS:** Data Structures & Algorithms, OOP, DBMS, Operating Systems, Computer Networks
 **Tools:** Git, GitHub, Docker, Linux, Postman
 
@@ -42,9 +42,9 @@
 ## 🚀 Featured Projects
 
 ### 🔹 [Anviksha — AI-Powered Enterprise Infrastructure Intelligence Platform](https://github.com/shambhavi-byte/anviksha)
-> Unified SOC/NOC platform combining network digital twins, telemetry, and AI-driven anomaly detection
+> Unified SOC/NOC platform combining network digital twins, telemetry, and AI-driven threat & anomaly detection
 
-- 🖧 Network digital twin, telemetry monitoring, and security event modules
+- 🛡️ Security event and threat simulation modules for proactive infrastructure defense
 - 🤖 AI-driven anomaly detection and predictive analytics for proactive incident response
 - 🔌 Distributed microservices architecture (Next.js, Express, FastAPI, PostgreSQL)
 
@@ -91,7 +91,7 @@
 
 - 📚 Sharpening DSA + Java for placements
 - ⚙️ Deepening backend engineering and system design skills
-- 🧬 Building more AI/ML-powered projects
+- 🔐 Going deeper into cybersecurity — threat detection, secure architecture, and applied cryptography
 
 ---
 
@@ -104,4 +104,4 @@
 - 2nd Prize — Student Research Symposium, ICDCIT 2026
 - Research Paper: *Cryptographic Applications in Quantum Game Theory* (Accepted for Publication)
 
-<p align="center"><i>Thanks for stopping by — always open to connecting on backend, full stack, or AI/ML projects!</i></p>
+<p align="center"><i>Thanks for stopping by — always open to connecting on backend, full stack, or cybersecurity projects!</i></p>
