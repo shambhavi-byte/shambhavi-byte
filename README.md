@@ -1,85 +1,107 @@
 <!-- PROFILE HEADER -->
 <h1 align="center">Hi 👋, I'm Shambhavi Gupta</h1>
-<h3 align="center"> MERN Developer</h3>
+<h3 align="center">Full Stack Developer · AI/ML Enthusiast · Final-Year CSE Student</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;Building+KindKart;Java+%2B+MERN+Focused;Future+Software+Engineer&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;Backend+Engineer+%7C+FastAPI+%2B+Node.js;Java+%2B+Python+%2B+MERN;AI%2FML+%7C+Computer+Vision+Enthusiast&center=true&width=550&height=45">
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/guptashambhavi26"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:guptashambhavi26@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://github.com/shambhavi-byte"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
 ---
 
 ## 🧠 About Me
-- 🎓 B.Tech CSE Student (3rd Year)
-- 💻 Building **KindKart — AI-powered donation platform**
-- ⚙️ Strong in **Java, Network, DBMS, OS, MERN, SQL**
 
-
----
-
-## 🌐 Connect With Me
-<p align="left">
-<a href="YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"></a>
-<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"></a>
-<a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"></a>
-</p>
+- 🎓 Final-year B.Tech Computer Science student at KIIT, Bhubaneswar (CGPA: 8.69/10)
+- 💻 Full stack developer building backend systems, REST APIs, and AI-powered applications
+- ⚙️ Strong foundations in Java, DSA, DBMS, Operating Systems, Computer Networks, and SQL
+- 🧬 Exploring AI/ML — deep learning, computer vision, and anomaly detection
+- 🏆 2nd Prize, Student Research Symposium (ICDCIT 2026) — research paper on cryptographic applications in quantum game theory, accepted for publication
+- 📜 SAP Certified Backend Developer (SAP BTP)
 
 ---
 
 ## 🛠️ Tech Stack
+
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,js,react,nodejs,express,mongodb,python,html,css,tailwind,git,github&perline=6" />
+  <img src="https://skillicons.dev/icons?i=java,python,js,react,nextjs,nodejs,express,fastapi,mongodb,postgres,mysql,html,css,git,github,linux,docker,postman&perline=9" />
 </p>
+
+**Languages & Databases:** Java, Python, JavaScript, SQL, C, PostgreSQL, MySQL, MongoDB
+**Backend & Frontend:** FastAPI, Node.js, Express.js, Spring Boot, REST APIs, React.js, Next.js
+**AI/ML:** PyTorch, Scikit-Learn, OpenCV, Deep Learning, Generative AI
+**Core CS:** Data Structures & Algorithms, OOP, DBMS, Operating Systems, Computer Networks
+**Tools:** Git, GitHub, Docker, Linux, Postman
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🔹 KindKart (Flagship Project)
-> AI-powered donation platform connecting donors & NGO children
+### 🔹 [Anviksha — AI-Powered Enterprise Infrastructure Intelligence Platform](https://github.com/shambhavi-byte/anviksha)
+> Unified SOC/NOC platform combining network digital twins, telemetry, and AI-driven anomaly detection
 
-- 💳 Razorpay Payment Integration  
-- 🧠 AI-based Recommendation System *(planned)*  
-- 👨‍💼 Admin Dashboard + NGO Panel  
-- 🌐 MERN Stack (MongoDB, Express, React, Node.js)
+- 🖧 Network digital twin, telemetry monitoring, and security event modules
+- 🤖 AI-driven anomaly detection and predictive analytics for proactive incident response
+- 🔌 Distributed microservices architecture (Next.js, Express, FastAPI, PostgreSQL)
+
+`FastAPI` `PostgreSQL` `AI/ML` `REST APIs`
 
 ---
 
-### 🔹 URL Shortener
-> Production-style URL management system
+### 🔹 [StreamSphere API — Video Streaming & Social Platform Backend](https://github.com/shambhavi-byte/StreamSphere-API)
+> Scalable backend for a video streaming and social platform
 
-- 🔗 Short link generation  
-- 📊 Click analytics tracking  
-- 🔐 Secure backend architecture  
+- 🏗️ Node.js + Express + MongoDB backend following MVC architecture
+- 🔐 JWT authentication and authorization middleware for secure, modular REST APIs
+- ☁️ Cloudinary integration for media storage
+
+`Node.js` `Express.js` `MongoDB`
+
+---
+
+### 🔹 [SmartDesk — Employee Task & Attendance Manager](https://github.com/shambhavi-byte/SmartDesk)
+> Desktop employee management system built with Core Java
+
+- 🖥️ Java Swing desktop app following the MVC architecture
+- 🔑 JDBC + MySQL-backed authentication, task assignment, and attendance tracking
+- 🗄️ Normalized relational database design with reusable DAO classes
+
+`Core Java` `JDBC` `MySQL` `Java Swing`
 
 ---
 
 ## 📊 GitHub Analytics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=shambhavi-byte&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shambhavi-byte&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shambhavi-byte&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shambhavi-byte&theme=tokyo-night"/>
 </p>
 
 ---
 
-## 📈 Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shambhavi-byte&theme=tokyo-night"/>
-
----
-
 ## 🧩 Current Focus
-- 🚀 Building **KindKart (Production Ready)**
-- 📚 DSA + Java for placements  
-- ⚙️ Backend + System Design  
+
+- 📚 Sharpening DSA + Java for placements
+- ⚙️ Deepening backend engineering and system design skills
+- 🧬 Building more AI/ML-powered projects
 
 ---
 
-## 🏆 Achievements
-- ✅ Built multiple real-world projects  
-- 🎯 Consistent GitHub contributor  
-- 💡 Strong problem-solving mindset  
+## 🏆 Certifications & Achievements
 
----
+- SAP Certified – Backend Developer (SAP Cloud Application Programming Model, SAP BTP)
+- CCNA: Introduction to Networks – Cisco Networking Academy
+- Foundations of Cybersecurity – Google (Coursera)
+- Data-Driven Cybersecurity using Python – KIIT Summer School
+- 2nd Prize — Student Research Symposium, ICDCIT 2026
+- Research Paper: *Cryptographic Applications in Quantum Game Theory* (Accepted for Publication)
 
-
+<p align="center"><i>Thanks for stopping by — always open to connecting on backend, full stack, or AI/ML projects!</i></p>
