@@ -16,7 +16,7 @@
 
 ## 🧠 About Me
 
-- 🎓 Final-year B.Tech Computer Science student at KIIT, Bhubaneswar (CGPA: 8.69/10)
+- 🎓 Final-year B.Tech Computer Science student at KIIT, Bhubaneswar 
 - 💻 Full stack developer building backend systems, REST APIs, and AI-powered applications
 - ⚙️ Strong foundations in Java, DSA, DBMS, Operating Systems, Computer Networks, and SQL
 - 🔐 Interested in cybersecurity — threat detection, anomaly analysis, and secure system design
